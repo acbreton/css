@@ -1,5 +1,11 @@
 # @primer/css
 
+## 20.4.3
+
+### Patch Changes
+
+- [#2202](https://github.com/primer/css/pull/2202) [`b74e78b2`](https://github.com/primer/css/commit/b74e78b2539925956ec19aa3efbf2410dc1167e0) Thanks [@jonrohan](https://github.com/jonrohan)! - Rename SegmentedControl--iconOnly-whenNarrow to SegmentedControl-button--iconOnly-whenNarrow and place on button
+
 ## 20.4.2
 
 ### Patch Changes
